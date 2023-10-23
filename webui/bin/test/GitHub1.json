@@ -1,0 +1,9 @@
+{
+  "connectorId" : "GitHub",
+  "label" : "GitHub1",
+  "host":"http://github.com",
+  "userName":"ta-api",
+  "password":"",
+  "useApiKey": true,
+  "apiKey": "¶cRwaZnVMLSA8GSlzexZvL3J4R0ltckt8IGtOK3gmFmN5LnhBFDdxFQ=="
+}
