@@ -1,9 +1,3 @@
-## General information
-
-The project was built and stored in [Sharepoint](https://oasissmartsim.sharepoint.com/Operations/Forms/AllItems.aspx?newTargetListUrl=%2FOperations&viewpath=%2FOperations%2FForms%2FAllItems%2Easpx&id=%2FOperations%2F5%2D%20Infrastructure%5FFR%2F4%2DTools%2FTaskadapter&viewid=168d5414%2D421f%2D4898%2Db8f9%2Da5be0acb4da5)
-
-[Redmine documentation](https://tickets.oasis-smartsim.com/projects/devops/wiki/Redmine-JIRA_integration_using_Taskadapter)
-
 # TaskAdapter
 TaskAdapter is a stand-alone application to transfer tasks between various bug tracking and project management systems, 
 e.g. between Atlassian Jira, Redmine, Microsoft Project, etc.
